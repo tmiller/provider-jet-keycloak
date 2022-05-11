@@ -1,4 +1,4 @@
-package repository
+package realm
 
 import "github.com/crossplane/terrajet/pkg/config"
 

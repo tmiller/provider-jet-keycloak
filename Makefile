@@ -6,7 +6,7 @@ PROJECT_REPO := github.com/crossplane-contrib/$(PROJECT_NAME)
 
 export TERRAFORM_VERSION := 1.1.6
 
-export TERRAFORM_PROVIDER_SOURCE := mrparkers/terraform-provider-keycloak
+export TERRAFORM_PROVIDER_SOURCE := mrparkers/keycloak
 export TERRAFORM_PROVIDER_VERSION := 3.8.1
 export TERRAFORM_PROVIDER_DOWNLOAD_NAME := terraform-provider-terraform-provider-keycloak
 export TERRAFORM_PROVIDER_DOWNLOAD_URL_PREFIX := https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.8.1/
